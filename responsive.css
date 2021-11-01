@@ -1,0 +1,12 @@
+@media screen and (max-width: 776px) {
+  .footer-col {
+    width: calc(50% - 30px);
+    padding-bottom: 35px;
+  }
+}
+@media screen and (max-width: 556px) {
+  .footer-col {
+    width: calc(100% - 30px);
+    padding-bottom: 35px;
+  }
+}
